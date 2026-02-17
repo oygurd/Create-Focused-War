@@ -1,0 +1,13 @@
+name = "Create: Tinker's Compat"
+filename = "create_tinkers_compat-2-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f4b5301e6a597e033612bd3707d75765657ec08f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6445835
+project-id = 1212694

@@ -1,0 +1,13 @@
+name = "Create Dough Compat (CDC) [MOD ver.]"
+filename = "st_cdc-1.20.1-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dadcbaa6c4106bb1e8f5d915172cd35676f38939"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6490647
+project-id = 1144636

@@ -1,0 +1,16 @@
+name = "Tinkers' Advanced Legacy"
+filename = "tinkers_advanced-3.0.0-beta.13fix.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0ba4b8676d26d62cb7b35d9147af07e5d4f10c11"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7184029
+project-id = 1213078
+
+[option]
+optional = true

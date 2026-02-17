@@ -1,0 +1,13 @@
+name = "create focused war"
+author = "oygurd"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "69e45b3c0bb8dc2f3a0f71b8725dc741b53758554883ed31b790752b48d388b8"
+
+[versions]
+forge = "47.4.10"
+minecraft = "1.20.1"

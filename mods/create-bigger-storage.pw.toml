@@ -1,0 +1,13 @@
+name = "Create: Bigger Storage"
+filename = "Create-Better-Storages-Forge-1.20.1-1.0b.Release.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7d33798500f3a78e47ee2c2f75dde7c0816c6db8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6217044
+project-id = 1200903

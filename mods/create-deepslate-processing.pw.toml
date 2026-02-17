@@ -1,0 +1,16 @@
+name = "Create: Deepslate Processing"
+filename = "create_deepslate_processing-2.0.1+forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e79728a08a68f44c7073e0df4082cc6dd18888bb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5590435
+project-id = 1070575
+
+[option]
+optional = true

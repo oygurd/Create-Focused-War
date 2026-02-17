@@ -1,0 +1,16 @@
+name = "Create: Automate Everything"
+filename = "createautomateeverything-1.0-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6f0080c8fbb171b1f93bc7b5e65cd71567f4a6c6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5561199
+project-id = 1070326
+
+[option]
+optional = true

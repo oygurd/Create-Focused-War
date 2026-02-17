@@ -1,0 +1,9 @@
+# Ignore compiled files
+*.class
+*.jar
+
+# Ignore local configuration
+config/local_config.json
+
+# Ignore backup files
+*.bak

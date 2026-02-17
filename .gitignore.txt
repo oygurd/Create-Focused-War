@@ -1,0 +1,48 @@
+# Packwiz temporary / generated files
+index/
+*.pw.toml
+packwiz-installer-bootstrap.jar
+packwiz-installer-bootstrap.sh
+packwiz-installer-bootstrap.exe
+
+# Minecraft instance files (do NOT commit these)
+.minecraft/
+mods/
+config/
+crash-reports/
+logs/
+saves/
+resourcepacks/
+shaderpacks/
+options.txt
+optionsof.txt
+options.txt_old
+launcher_profiles.json
+minecraftinstance.json          # ← CurseForge / Prism specific
+instance.cfg                    # ← Prism / ATLauncher
+modlist.html
+usercache.json
+usernamecache.json
+
+# Common large / unnecessary files
+*.jar                           # ← actual mod jars (Packwiz downloads them)
+*.zip
+*.mrpack
+*.zip.old
+backups/
+exports/
+overrides/                      # ← only if you're not using it intentionally
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.vscode/
+.idea/
+*.code-workspace
+
+# Temporary build / test files you might create
+test/
+dev/
+temp/

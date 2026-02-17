@@ -1,0 +1,16 @@
+name = "Create Beamline"
+filename = "create-beamline_forge-1.0.0+mc-1.20.1-create-6.0.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "579a9b969324d3a676393dd9a1e83a19e0bdee1c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7412811
+project-id = 1419839
+
+[option]
+optional = true

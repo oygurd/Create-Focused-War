@@ -1,0 +1,13 @@
+name = "Hyperslide - a movement mod"
+filename = "hyperslide-3.2-frog-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9444948c3d1aa92e207618a1129466c9be63f85d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6644158
+project-id = 1098594
