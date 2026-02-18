@@ -657,6 +657,10 @@ file = "config/xaeropatreon.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "kubejs/server_scripts/recipes.js.txt"
+hash = "e0848c74019aada65f248de48018090165e059d57a50a82ea7fe00b1f0376c49"
+
+[[files]]
 file = "mods/allthecompressed.pw.toml"
 hash = "023dbd597a018bc8914544c9d781fdffc3dc78a3b2fab5f5b6771c119bb81653"
 metafile = true
