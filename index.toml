@@ -661,6 +661,11 @@ file = "kubejs/server_scripts/recipes.js.txt"
 hash = "e0848c74019aada65f248de48018090165e059d57a50a82ea7fe00b1f0376c49"
 
 [[files]]
+file = "mods/accelerated-rendering.pw.toml"
+hash = "92507df5f2562c4268d2f3ed1229330222e1ff3a75fa7a7073d0a822f833a7cc"
+metafile = true
+
+[[files]]
 file = "mods/allthecompressed.pw.toml"
 hash = "023dbd597a018bc8914544c9d781fdffc3dc78a3b2fab5f5b6771c119bb81653"
 metafile = true
@@ -766,6 +771,11 @@ hash = "28ce51413cf71482c76526c8413732077bf9bcd0d1ebcf3264781632b3b1e971"
 metafile = true
 
 [[files]]
+file = "mods/configured.pw.toml"
+hash = "c1bdeff356cd2ac164e2c0e6d0ceeda234db9774c2df44fb9f0e71d3960cc3f1"
+metafile = true
+
+[[files]]
 file = "mods/construction-wand.pw.toml"
 hash = "1613f68b9bdd242a957a3a20c5193b640672d11087abcb5c3abe5da45b235e35"
 metafile = true
@@ -817,7 +827,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-bigger-storage-updated-to-create-6.pw.toml"
-hash = "78e128483648a8b3308bc0932a99290def7313d132ed17d7a58090205d3de38f"
+hash = "9086e1786956c985d8bdacaef9788239a323f2522ff186517ab0d7da70075bba"
 metafile = true
 
 [[files]]
@@ -1296,6 +1306,11 @@ hash = "893b3e91c2165e5b3d7950ad543d6898bd3d50b7bfa411352ab0c60447c9e8e3"
 metafile = true
 
 [[files]]
+file = "mods/mmmmmmmmmmmm.pw.toml"
+hash = "5859dfd186c4ac5e7e4627639dc2aeca5478dd1f9d6f09020e49a9788edbf4de"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "17523abe76f282db11e95a033e504c1da3f82ac23a42e169d6b1e4d59b6a18d6"
 metafile = true
@@ -1413,6 +1428,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "2cb8dd9a3944a6430b49916a4fe1b6cf0bd7efd907054f8e679a02717149404f"
+metafile = true
+
+[[files]]
+file = "mods/selene.pw.toml"
+hash = "f9834af674abc824248bedb2e490ab426cff92b036cb20413cbbacd67ec6f5e3"
 metafile = true
 
 [[files]]
