@@ -14,7 +14,7 @@ hash = "1eb374202ffa86c4493c9da6dd81584f9b1128057191761c53825c76748cd67e"
 
 [[files]]
 file = "README.md"
-hash = "28af7d576df0bc50e60fd226ba9862c9a1ac25f1381efe44d175818470131ca0"
+hash = "9775f8b0e7965ba1938bf8bd4c681e588ad6e950e1f036a81e3224e6fe3bc047"
 
 [[files]]
 file = "config/DistantHorizons.toml"
@@ -903,11 +903,6 @@ metafile = true
 [[files]]
 file = "mods/create-goggles.pw.toml"
 hash = "9fefd44d9538c9846d43348f3edacf934e9d0c0f7ec9fecddfa6977876959873"
-metafile = true
-
-[[files]]
-file = "mods/create-immersive-tacz-integration.pw.toml"
-hash = "ba488b1eda33d6632a72b83e698c2b161dadedba5cc0b43977bd257f569106ff"
 metafile = true
 
 [[files]]
