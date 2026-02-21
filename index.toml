@@ -686,6 +686,11 @@ hash = "8d0321177fed4a0b48554c40158b43db62f6cdaa768f584ef6a11575dfaa6223"
 metafile = true
 
 [[files]]
+file = "mods/aquatic-torches.pw.toml"
+hash = "7cf692508214c58455c531fff8e0dd440cbdc79457d406e827f032b89a7d37ed"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
 metafile = true
@@ -693,6 +698,11 @@ metafile = true
 [[files]]
 file = "mods/attributefix.pw.toml"
 hash = "828d571a91296e2ee3be1ec509619ea01f6a61a03958461fbe543bd377daa194"
+metafile = true
+
+[[files]]
+file = "mods/autochefs-delight.pw.toml"
+hash = "8b60dcf2f8a3d76c90dffc7c87ffc6daaf38be2e12ba7af7ab06f54b1efd8304"
 metafile = true
 
 [[files]]
@@ -733,6 +743,11 @@ metafile = true
 [[files]]
 file = "mods/canary.pw.toml"
 hash = "e5df83a3dd1686106741d1d61da5869aed0537c2931a40234e1b3bd2d09e1971"
+metafile = true
+
+[[files]]
+file = "mods/cardiac.pw.toml"
+hash = "1caa8d138fa8218295bbe69528cc8910ed4a262aa9d210fcca3a44eebd89764e"
 metafile = true
 
 [[files]]
@@ -796,8 +811,18 @@ hash = "d62480bc696affd0a714d4cd74b5dc64a072b9d67d505b52df87ebcdf9650a79"
 metafile = true
 
 [[files]]
+file = "mods/counter-strike-grenades.pw.toml"
+hash = "2e1b0f0abb54fb0b91f53c7898065720e007f9840afb82a1289df12b1cff131f"
+metafile = true
+
+[[files]]
 file = "mods/craftable-elytra-remastered.pw.toml"
 hash = "0a0e7ce958d3e1e98bfca0119dba893da32a28dd5e7c87672124224c1940577c"
+metafile = true
+
+[[files]]
+file = "mods/crafting-tweaks.pw.toml"
+hash = "6a18fc2c584371e5f5fe6b621980e3ae4695bff2c5e90d7758c4acbf099743b0"
 metafile = true
 
 [[files]]
@@ -843,6 +868,11 @@ metafile = true
 [[files]]
 file = "mods/create-bronze.pw.toml"
 hash = "09f37bf08b492f7c32ba850525d7285c6f8d51ad547ce071c746276e74dbb3c2"
+metafile = true
+
+[[files]]
+file = "mods/create-central-kitchen.pw.toml"
+hash = "967c38265800a8b2353debf37ab919204a1f89e4a57e2e603b7a7de1d68c8956"
 metafile = true
 
 [[files]]
@@ -976,6 +1006,11 @@ hash = "915f3ec2dc60689d3ef4ee91cec6a6a21bf7ba6a4e46a0a16a2c555b4f3777e6"
 metafile = true
 
 [[files]]
+file = "mods/create-tank-defenses.pw.toml"
+hash = "c58b3c215d107ad651567522d6f8ea19248c20691b20ae47d07fe42127173c19"
+metafile = true
+
+[[files]]
 file = "mods/create-threaded-trains.pw.toml"
 hash = "da11d2f476e657246f3bb8798611aadac54a3721fd4743c4aa54b192599c7e20"
 metafile = true
@@ -1048,6 +1083,11 @@ metafile = true
 [[files]]
 file = "mods/delightful-creators-forge.pw.toml"
 hash = "53765070751a193b0a66efd6886b9b8b57253c215ee9f2918c5e492df2b2c1ec"
+metafile = true
+
+[[files]]
+file = "mods/diet.pw.toml"
+hash = "90791d91751fc9a54e339f07f23f71ecb159383c946234a1113cbfab8a34162e"
 metafile = true
 
 [[files]]
@@ -1201,6 +1241,11 @@ hash = "2621dfb5b3ad17a3adf927cc92a3bc6b0dd982c32f0265f920b29a61b34d182e"
 metafile = true
 
 [[files]]
+file = "mods/immersive-optimization.pw.toml"
+hash = "ed4a5d39c2cb8a41d49f7e118ceb43a04f7984d6cbd706389b7d736c507bf00a"
+metafile = true
+
+[[files]]
 file = "mods/integrated-crafting.pw.toml"
 hash = "5445d61b93c42ddff6b1bb92bc45cea421161d09e35e9b6d0aeb7ceeff0037bf"
 metafile = true
@@ -1226,6 +1271,11 @@ hash = "cb2fdd24ac8bc392cfb22757c422ae7e55d7891ef0fa29b2895d0d5718a993b8"
 metafile = true
 
 [[files]]
+file = "mods/inventory-sorter.pw.toml"
+hash = "58170607da6517dc43eeb5a664dea9dec7d96a8ad9e99d2623c2a5a9099c91be"
+metafile = true
+
+[[files]]
 file = "mods/jade-addons.pw.toml"
 hash = "140a929fda55621de5a03378f7478f587e0a1e912a3e46815fa7305070d2c71c"
 metafile = true
@@ -1233,6 +1283,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "8f359d190506a6f824763b8e7c390d9e22204ef11e3ffa5ef980000d17e2c2b6"
+metafile = true
+
+[[files]]
+file = "mods/jamlib.pw.toml"
+hash = "9482df68dbfa37997b45261992051d5dbcbb0d3d9f4ca766d548bcffdf825060"
 metafile = true
 
 [[files]]
@@ -1301,6 +1356,11 @@ hash = "893b3e91c2165e5b3d7950ad543d6898bd3d50b7bfa411352ab0c60447c9e8e3"
 metafile = true
 
 [[files]]
+file = "mods/minecraft-transport-simulator.pw.toml"
+hash = "c9ae91bcabacc757aa697660d26f05b85fbed24f24c635710c7d6c3cb64924ae"
+metafile = true
+
+[[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
 hash = "5859dfd186c4ac5e7e4627639dc2aeca5478dd1f9d6f09020e49a9788edbf4de"
 metafile = true
@@ -1323,6 +1383,11 @@ metafile = true
 [[files]]
 file = "mods/nukateams-gun-lib.pw.toml"
 hash = "fb33e15a789b02f897f500ac188610e7f4768e2d7b465b6b35c51fee804f1fce"
+metafile = true
+
+[[files]]
+file = "mods/octo-lib.pw.toml"
+hash = "320c4d3a50b1f2f45d64d2f88c8c16473bc85b95d67e54ff93205ac9d2ead3cf"
 metafile = true
 
 [[files]]
@@ -1411,6 +1476,11 @@ hash = "ca4411ac6d8a9a892948bb63cd0ba52ae5523ca5e257632d6ae8c933b660c5ee"
 metafile = true
 
 [[files]]
+file = "mods/rightclickharvest.pw.toml"
+hash = "33232510f247888ae35f261b26345f0f3c5f0daee0adbc0311aac2d5bb324a1d"
+metafile = true
+
+[[files]]
 file = "mods/ritchies-projectile-library.pw.toml"
 hash = "ad017c00411e9b3cd8564d913e568636270ffd50bc822c919ce1db5ba0dbe126"
 metafile = true
@@ -1438,6 +1508,11 @@ metafile = true
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "9b59e9b08c1281a521777e9924dab6c258e42c5d1c06852b9ebe9304021aec42"
+metafile = true
+
+[[files]]
+file = "mods/slot-cycler.pw.toml"
+hash = "d76305adb319213793344c530ca7b87e0a01d238333f891b985b6fc44b88d24b"
 metafile = true
 
 [[files]]
@@ -1533,6 +1608,16 @@ metafile = true
 [[files]]
 file = "mods/tinkers-katanas.pw.toml"
 hash = "ffd8136652111fb2461709f1137105ed900d56f47f2ccb4e4dc0a7540e1c4f63"
+metafile = true
+
+[[files]]
+file = "mods/tips.pw.toml"
+hash = "1200df8e3cd3d1214d9870c54408feb058cf7fda8371139ef02ef3fc89fac078"
+metafile = true
+
+[[files]]
+file = "mods/transport-simulator-official-vehicle-set.pw.toml"
+hash = "e29a62a480f74e24022d04185c8a74488fcc78569492af838db9ebb702ca9391"
 metafile = true
 
 [[files]]

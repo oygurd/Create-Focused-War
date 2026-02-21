@@ -1,0 +1,13 @@
+name = "Counter Strike Grenades"
+filename = "csgrenade-1.20.1-1.5.0-prerelease.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dd7ceb3fefae7dec1d21cd867b920d89e13ede39"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7615081
+project-id = 1413459

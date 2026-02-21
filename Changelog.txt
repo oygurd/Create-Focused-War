@@ -1,0 +1,22 @@
+-Updated pack version to 1.0.2
+
+-Mods added:
+RightClickHarvest
+Slot Cycler
+immersive optimization
+crafting tweaks
+inventory sorter
+immersive vehicles(formerly transport simulator)
+Immersive Vehicles (MTS/IV) - Official Content Pack - [OCP] - Planes, Cars, Helicopters & More!
+cardiac
+create: tank defenses
+create: central kitchen
+Diet (Fabric/Forge/Quilt)
+Autochef's Delight
+Aquatic Torches
+Counter Strike Grenades
+Tips
+
+
+
+removed:
