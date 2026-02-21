@@ -13,6 +13,10 @@ file = ".packwizignore.txt"
 hash = "1eb374202ffa86c4493c9da6dd81584f9b1128057191761c53825c76748cd67e"
 
 [[files]]
+file = "Changelog.txt"
+hash = "48d63aa3442e897761a245a393d952f63cc86a49acc4858a8e08410779a3c687"
+
+[[files]]
 file = "README.md"
 hash = "d1a870c254add903c07cf3ef7603e6c9c8371764bdb21341341f3f029c261502"
 
