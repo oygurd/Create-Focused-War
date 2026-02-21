@@ -14,7 +14,7 @@ hash = "1eb374202ffa86c4493c9da6dd81584f9b1128057191761c53825c76748cd67e"
 
 [[files]]
 file = "README.md"
-hash = "9775f8b0e7965ba1938bf8bd4c681e588ad6e950e1f036a81e3224e6fe3bc047"
+hash = "d1a870c254add903c07cf3ef7603e6c9c8371764bdb21341341f3f029c261502"
 
 [[files]]
 file = "config/DistantHorizons.toml"
@@ -657,8 +657,12 @@ file = "config/xaeropatreon.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
-file = "kubejs/server_scripts/recipes.js.txt"
-hash = "e0848c74019aada65f248de48018090165e059d57a50a82ea7fe00b1f0376c49"
+file = "kubejs/server_scripts/create-M4A1-recipe.js"
+hash = "11196b476fbab6e30d2ab68abc88195812a23bd07697b4a634b394c057540365"
+
+[[files]]
+file = "kubejs/server_scripts/test.js"
+hash = "bb11b31d5771e028db2d313b9faf64e8cdab6b1bbb69a61802cfe3ac4fd738f0"
 
 [[files]]
 file = "mods/accelerated-rendering.pw.toml"
