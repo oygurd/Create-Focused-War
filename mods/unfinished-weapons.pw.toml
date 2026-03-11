@@ -1,0 +1,13 @@
+name = "Unfinished Weapons"
+filename = "unfinished_weapons_parts-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "04ba68bbc0cb0d8ca41a552d66649973c0da4537"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7740852
+project-id = 1483110

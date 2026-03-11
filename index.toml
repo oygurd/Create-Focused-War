@@ -1634,6 +1634,11 @@ hash = "7149b1beafef2ce275da37dd5ca2e12f5527ad979420630ecdef5bcabd4fef32"
 metafile = true
 
 [[files]]
+file = "mods/unfinished-weapons.pw.toml"
+hash = "1c91298997e5bd3680c63b144814908aad07cca7ff25e27b867766cc102adb76"
+metafile = true
+
+[[files]]
 file = "mods/waystones.pw.toml"
 hash = "1ce0987643cf67ac8c890d3eeeecd86ccc683ea874f0c8b06d898b12df9c3963"
 metafile = true
